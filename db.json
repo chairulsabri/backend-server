@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Pro 15\"",
+      "description": "High-performance laptop for professionals",
+      "price": 1299.99,
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Wireless Noise Cancelling Headphones",
+      "description": "Premium over-ear headphones with active noise cancellation",
+      "price": 249.99,
+      "category": "Audio",
+      "stock": 120
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch Series 5",
+      "description": "Fitness tracking, heart rate monitor, and notifications on your wrist",
+      "price": 199.99,
+      "category": "Wearables",
+      "stock": 85
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Gaming Keyboard",
+      "description": "RGB backlit mechanical keyboard with clicky switches",
+      "price": 89.99,
+      "category": "Gaming Accessories",
+      "stock": 200
+    },
+    {
+      "id": 5,
+      "name": "4K Ultra HD Monitor",
+      "description": "27-inch 4K monitor with vivid colors and thin bezels",
+      "price": 349.99,
+      "category": "Electronics",
+      "stock": 40
+    }
+  ]
+}
